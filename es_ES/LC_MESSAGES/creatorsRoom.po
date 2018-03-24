@@ -8,7 +8,7 @@ msgid "FAVORITE_USERS"
 msgstr "Usuarios Favoritos"
 
 msgid "FAVORITES_FEED"
-msgstr "Flipnotes de Favoritos"
+msgstr "Flipnotes Favoritos"
 
 msgid "FAVORITE_CHANNELS"
 msgstr "Canales Favoritos"
@@ -41,25 +41,25 @@ msgid "NOT_USABLE"
 msgstr "No Usable"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Link de Sudomemo Theathre"
+msgstr "Link de Sudomemo Theatre"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID de Flipnote Studio"
 
 msgid "SETTINGS"
-msgstr "Configuración"
+msgstr "Configuraciónes"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
 msgstr "En buen estado"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Baneado"
+msgstr "Suspendido"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Bloqueado"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muteado"
+msgstr "Silenciado"
 
 msgid "ADMIN_USER_DETAILS"
 msgstr "Detalles de usuario"
@@ -152,5 +152,5 @@ msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Lenguaje"
 
