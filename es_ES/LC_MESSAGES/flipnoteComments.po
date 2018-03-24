@@ -17,7 +17,7 @@ msgid "PAGE_FORMAT"
 msgstr "Pàgina %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Esta Flipnote aùn no tiene comentarios."
+msgstr "Este Flipnote aùn no tiene comentarios."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Debes haber iniciado sesiòn para publicar un comentario."
@@ -29,13 +29,13 @@ msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "No puedes publicar un comentario vacio."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en un momento."
+msgstr "Los datos de este Flipnote estan corrumpidos, intenta de nuevo en un momento."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "No puedes comentar en esta Flipnote."
+msgstr "No puedes comentar en este Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "Has sido muteado. No puedes publicar un comentario si estas muteado."
+msgstr "Has sido silenciado. No puedes publicar un comentario si estas silenciado."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido publicado en Sudomemo."
