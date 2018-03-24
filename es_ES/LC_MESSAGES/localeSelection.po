@@ -1,17 +1,17 @@
 msgid "CHANGE_LANGUAGE"
-msgstr "Change Language"
+msgstr "Cambie Lenguaje"
 
 msgid "LANGUAGE_UPDATED_FORMAT"
-msgstr "Your language has been updated to %s."
+msgstr "Tu lenguaje a sido actualizado a %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you citizenship. You can do so here: https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Sudomemo confía en su communidad para proveer traduciones preciso. Si tu vez aldo que no esta correcto, que todavia esta en ingles, que tiened una traducción de baja calidad, o si quisieras añadir su propio lenguaje, lez invitamos que contribuyas a la causa! Completando y verificado una nueva traducciones puede ganarte Ciudadanía! Puedes hacerlo aqui: https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Return to Creator's Room"
+msgstr "Regresar a la Sala de Creador"
 
 msgid "NOT_LOGGED_IN"
-msgstr "You must log in before changing your language."
+msgstr "Necesitas iniciar sesión antes que cambies su lenguaje." 
 
 msgid "INVALID_LOCALE"
-msgstr "Sorry, but that language is not available."
+msgstr "Ay caramba! Este lenguaje no esta disponible." 
