@@ -149,25 +149,25 @@ msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
 msgstr "Bienvenido a Sudomemo! Por favor inicia sesiòn para entrar."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "You can return to the main menu by holding down L (or R if you're left-handed) and pressing the 'Menu' button."
+msgstr "Puedes regresar a tu menú aguantando el botón 'L' (o 'R' si eres zurdo) y apretando el botón de menú." 
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, but we couldn't log you in!"
+msgstr "Ay caramba! No podiamos iniciar su sesión."
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+msgstr "Apparentemente tu no tienes habilitado tu autenticación basica." 
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+msgstr "El ID de Flipnote Studio que ingresaste debajo de autenticación basica es invalido." 
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "The ID appears to be %s digits in length (should be 16)"
+msgstr "El ID tiene %s digitos en longitud. (Deberia ser 16)"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "El ID contiene letras in minúscula - deberia ser todo mayuscula." 
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "El ID contiene caracteres que no son de 0-9 y A-F (Necesita solamente tener 0-9 y A-F)." 
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
