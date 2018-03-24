@@ -17,7 +17,7 @@ msgid "PROFILE_PICTURE_SET"
 msgstr "Foto de perfil exitòsamente establecida!"
 
 msgid "RETURN_TO_FLIPNOTE"
-msgstr "Return to Flipnote"
+msgstr "Regresar a Flipnote"
 
 msgid "CREATORS_ROOM"
 msgstr "Sala de creador"
